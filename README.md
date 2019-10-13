@@ -8,7 +8,7 @@ To quickly build your first pipeline while learning key GoCD concepts, visit our
 
 ## Development Setup
 
-This is a Java/JRuby on Rails project. Here is the guide to setup your [development environment](https://developer.gocd.org/current/2/2.1.html).
+This is a Java/JRuby on Rails project. Here is the complete guide to setup your [development environment](https://developer.gocd.org/current/2/2.1.html).
 
 ## Contributing
 
@@ -18,3 +18,4 @@ A lot of useful information like links to user documentation, design documentati
 ## License
 
 GoCD is an open source project, sponsored by [ThoughtWorks Inc.](https://www.thoughtworks.com) under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
